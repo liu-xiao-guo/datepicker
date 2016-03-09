@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=datapicker
+Exec=qmlscene $@ Main.qml
+Icon=datapicker.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

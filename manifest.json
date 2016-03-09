@@ -1,0 +1,17 @@
+{
+    "name": "datapicker.liu-xiao-guo",
+    "description": "description of datapicker",
+    "architecture": "all",
+    "title": "datapicker",
+    "hooks": {
+        "datapicker": {
+            "apparmor": "datapicker.apparmor",
+            "desktop":  "datapicker.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
